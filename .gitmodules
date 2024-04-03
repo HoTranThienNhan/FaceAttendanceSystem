@@ -1,0 +1,9 @@
+[submodule "FaceAttendanceTeacherWebApp"]
+	path = FaceAttendanceTeacherWebApp
+	url = https://github.com/HoTranThienNhan/FaceAttendanceTeacherWebApp.git
+[submodule "FaceAttendanceAdminWebApp"]
+	path = FaceAttendanceAdminWebApp
+	url = https://github.com/HoTranThienNhan/FaceAttendanceAdminWebApp.git
+[submodule "FaceAttendanceServer"]
+	path = FaceAttendanceServer
+	url = https://github.com/HoTranThienNhan/FaceAttendanceServer.git
